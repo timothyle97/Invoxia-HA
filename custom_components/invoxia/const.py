@@ -11,7 +11,7 @@ ATTRIBUTION = "Data provided by an unofficial client for Invoxia API."
 
 CLIENT = "client"
 
-DATA_UPDATE_INTERVAL = timedelta(seconds=240)
+DATA_UPDATE_INTERVAL = timedelta(seconds=300)
 
 DOMAIN = "invoxia"
 
