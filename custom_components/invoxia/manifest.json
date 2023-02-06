@@ -2,12 +2,13 @@
   "domain": "invoxia",
   "name": "Invoxia (unofficial)",
   "config_flow": true,
-  "documentation": "https://www.home-assistant.io/integrations/invoxia",
+  "documentation": "https://github.com/timothyle97/invoxia-HA/blob/main/README.md",
   "requirements": ["gps-tracker==0.8.0"],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
   "dependencies": [],
-  "codeowners": ["@ezlo-picori"],
+  "codeowners": ["@timothyle97"],
   "iot_class": "cloud_polling"
+  "version": "1.0.0"
 }
