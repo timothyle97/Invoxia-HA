@@ -131,4 +131,5 @@ class GpsTrackerEntity(CoordinatorEntity[GpsTrackerCoordinator], TrackerEntity):
             "manufacturer": "Invoxia",
             "name": tracker.name,
             "sw_version": tracker.version,
+            "model": tracker.tracker_config.board_name,
         }
