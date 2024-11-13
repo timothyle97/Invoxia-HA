@@ -36,7 +36,7 @@ async def async_setup_entry(
 
     await asyncio.gather(
         *[
-            coordinator.async_config_entry_first_refresh()
+            coordinator.async_refresh()
             for coordinator in coordinators
         ]
     )
