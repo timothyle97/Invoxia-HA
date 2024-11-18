@@ -10,3 +10,5 @@ I have re-packaged it as a custom_component integration.
 This integration has been made possible only with the contribution of the awesome work done by:
 
 - [@enzlo-picori]
+- [@MagnusErler]
+- [@bercht-a]
